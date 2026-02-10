@@ -1,0 +1,46 @@
+import React from 'react';
+import { 
+  ShieldCheck, 
+  Building2, 
+  Settings, 
+  FileText, 
+  Edit3, 
+  Trash2, 
+  Plus, 
+  Save, 
+  X, 
+  CheckCircle2, 
+  XCircle, 
+  ChevronRight, 
+  Upload,
+  Search,
+  BookOpen,
+  Sparkles,
+  UploadCloud,
+  AlertCircle,
+  FileBadge,
+  Loader2
+} from 'lucide-react';
+
+export {
+  ShieldCheck,
+  Building2,
+  Settings,
+  FileText,
+  Edit3,
+  Trash2,
+  Plus,
+  Save,
+  X,
+  CheckCircle2,
+  XCircle,
+  ChevronRight,
+  Upload,
+  Search,
+  BookOpen,
+  Sparkles,
+  UploadCloud,
+  AlertCircle,
+  FileBadge,
+  Loader2
+};
